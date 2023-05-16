@@ -1,0 +1,17 @@
+go 3
+ld doc1
+link=0 link=a_b
+link=_1
+eod
+add a
+rem b
+remi 1
+show
+remi 2
+index a_b
+index c
+addi 0 f
+get 0
+set 0 a
+rem a_b
+ha
