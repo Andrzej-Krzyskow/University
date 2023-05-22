@@ -1,0 +1,8 @@
+START
+!go 10
+!ld zero
+!add d
+true
+!show
+Document: zero
+d

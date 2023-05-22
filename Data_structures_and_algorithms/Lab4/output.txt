@@ -1,0 +1,12 @@
+START
+!go 10
+!ld doc1
+!add f(8)
+true
+!add g(4)
+true
+!add e(3)
+true
+!show
+Document: doc1
+a(20) b(7) c(10) e(3)(1) f(8)(1) g(4)(1) z(1)

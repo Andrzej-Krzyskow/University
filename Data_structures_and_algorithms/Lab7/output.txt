@@ -1,0 +1,10 @@
+START
+!show
+no current document
+!ld first
+!add b(11)
+true
+!show
+Document: first
+a(10) b(11)
+!ld second
