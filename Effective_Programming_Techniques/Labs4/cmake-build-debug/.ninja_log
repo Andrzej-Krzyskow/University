@@ -1,0 +1,23 @@
+# ninja log v5
+5	353	6905889683795743	CMakeFiles/Labs4.dir/CFileLastError.cpp.obj	70e3c206c82e8350
+10	385	6905887487954569	CMakeFiles/Labs4.dir/main.cpp.obj	3fb9ae75b2904c6f
+9	381	6905889684075731	CMakeFiles/Labs4.dir/CFileErrCode.cpp.obj	21394e96951ae9fe
+381	467	6905889684913925	Labs4.exe	36961f503ebff319
+7	372	6905889683985729	CMakeFiles/Labs4.dir/CFileThrowEx.cpp.obj	9c30cdf06ef571b1
+2	363	6905889683905746	CMakeFiles/Labs4.dir/mainWithExercise.cpp.obj	f8f704f50b65821
+1	96	6958535422749414	build.ninja	5560755bf8303699
+6	383	6958535514969419	CMakeFiles/Labs4.dir/CFileThrowEx.cpp.obj	64fb234c11ec547a
+8	389	6958535515019411	CMakeFiles/Labs4.dir/CFileErrCode.cpp.obj	a2433551060196c3
+5	391	6958535515049435	CMakeFiles/Labs4.dir/mainWithExercise.cpp.obj	f729e3095ae2aaa7
+2	399	6958535515129384	CMakeFiles/Labs4.dir/CFileLastError.cpp.obj	6f96b68f59e2b629
+399	506	6958535516169401	Labs4.exe	36961f503ebff319
+5	383	6958535632053727	CMakeFiles/Labs4.dir/mainWithExercise.cpp.obj	f729e3095ae2aaa7
+3	404	6958535632273730	CMakeFiles/Labs4.dir/CFileLastError.cpp.obj	6f96b68f59e2b629
+9	419	6958535632423762	CMakeFiles/Labs4.dir/CFileErrCode.cpp.obj	a2433551060196c3
+7	438	6958535632613732	CMakeFiles/Labs4.dir/CFileThrowEx.cpp.obj	64fb234c11ec547a
+438	529	6958535633493747	Labs4.exe	36961f503ebff319
+3	345	6958535690163751	CMakeFiles/Labs4.dir/mainWithExercise.cpp.obj	f729e3095ae2aaa7
+5	352	6958535690213757	CMakeFiles/Labs4.dir/CFileLastError.cpp.obj	6f96b68f59e2b629
+7	357	6958535690273739	CMakeFiles/Labs4.dir/CFileErrCode.cpp.obj	a2433551060196c3
+9	368	6958535690393726	CMakeFiles/Labs4.dir/CFileThrowEx.cpp.obj	64fb234c11ec547a
+368	457	6958535691253726	Labs4.exe	36961f503ebff319

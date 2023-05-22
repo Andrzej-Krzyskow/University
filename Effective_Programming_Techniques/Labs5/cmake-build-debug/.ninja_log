@@ -1,0 +1,13 @@
+# ninja log v5
+3	475	6925534005531121	CMakeFiles/Labs05.dir/main.cpp.obj	8bd9166e0ab231ed
+7	647	6925534007263291	CMakeFiles/Labs05.dir/CNodeStatic.cpp.obj	bf123f1996202dcf
+647	745	6925534008203981	Labs05.exe	74aa6c7687302bc
+16	489	6925534005671471	CMakeFiles/Labs05.dir/CTreeDynamic.cpp.obj	d6cfada8006375b0
+9	633	6925534007103926	CMakeFiles/Labs05.dir/CTreeStatic.cpp.obj	ceb738b86a13b456
+12	642	6925534007203903	CMakeFiles/Labs05.dir/CNodeDynamic.cpp.obj	da8cd328dd910a2a
+2	1182	6958534215585414	CMakeFiles/Labs05.dir/main.cpp.obj	9ccef0bdf2bc8a9f
+8	1246	6958534216205396	CMakeFiles/Labs05.dir/CTreeStatic.cpp.obj	9d3502fb11f5feae
+6	1284	6958534216615405	CMakeFiles/Labs05.dir/CNodeStatic.cpp.obj	19b42f9fb437227d
+3	452	6958534469658997	CMakeFiles/Labs05.dir/main.cpp.obj	9ccef0bdf2bc8a9f
+6	581	6958534470938980	CMakeFiles/Labs05.dir/CNodeStatic.cpp.obj	19b42f9fb437227d
+10	620	6958534471328983	CMakeFiles/Labs05.dir/CTreeStatic.cpp.obj	9d3502fb11f5feae

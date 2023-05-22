@@ -1,0 +1,3 @@
+D:/Sem3/1C++/Labs6/cmake-build-debug/CMakeFiles/Labs6.dir
+D:/Sem3/1C++/Labs6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Sem3/1C++/Labs6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

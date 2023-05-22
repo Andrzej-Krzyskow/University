@@ -1,0 +1,3 @@
+D:/Job/GitHub/University/Effective_Programming_Techniques/Labs3/cmake-build-debug/CMakeFiles/Labs3.dir
+D:/Job/GitHub/University/Effective_Programming_Techniques/Labs3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Job/GitHub/University/Effective_Programming_Techniques/Labs3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
