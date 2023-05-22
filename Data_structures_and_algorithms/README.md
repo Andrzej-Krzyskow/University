@@ -1,7 +1,7 @@
 ﻿
 # Algorithms And Data Structures
 ## Wrocław University of Science and Technology
-## Applied Computer Science
+## Applied Computer Science, Semester 2
 
 
 # Laboratories subjects:
