@@ -1,0 +1,8 @@
+{
+    "file_name": "nasash",
+    "http_request_method": "get",
+    "logging_level": "debug",
+    "log_lines_at_once": 20,
+    "sort_by_size": true,
+    "data_less_than":1000
+}

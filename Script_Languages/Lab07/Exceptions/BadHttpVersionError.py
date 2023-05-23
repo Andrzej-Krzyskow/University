@@ -1,0 +1,2 @@
+class BadHttpVersionError(Exception):
+    pass

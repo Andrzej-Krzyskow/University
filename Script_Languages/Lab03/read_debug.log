@@ -1,0 +1,8 @@
+DEBUG:root:Number of lines read: 1891714
+DEBUG:root:Number of entries in the list: 1891709
+INFO:root:Successful reads: 1701534
+INFO:root:Failed 4xx read:: 10899
+INFO:root:Failed 5xx read:: 76
+INFO:root:Number of entries with code 304: 132627
+INFO:root:Successful reads: 1701534
+INFO:root:Number of entries with extension html: 396605
