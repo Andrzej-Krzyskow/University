@@ -1,0 +1,50 @@
+1. Book
+- isbn	 		String 	(not null, primary key)
+- title 		String 	(not null, unique)
+- author		Author
+- genre			Genre
+- release date		Date
+- rating		int (int between 1 and 5 both inclusive)
+
+candidate key: isbn, title
+
+
+2. Author
+- first name 		String (not null, unique)
+- last name 		String (not null, unique)
+- birth date 		Date
+- date of death		Date
+
+candidate key: (first name, last name)
+
+
+3. Reader
+- first name 		String
+- last name 		String
+- phone number		String	(not null, unique)
+
+candidate key: phone number
+
+
+4. Genre
+- name			String	(not null, unique)
+- sub genres 		String	(list of genres)
+- recommended reading age: int
+- popular authors	String 	(list)
+
+candidate key: name
+
+
+5. Publisher
+- name	 		String 	(not null, unique)
+- address 		String
+- phone number	 	String
+- email 		String
+- books published 	String 	(list)
+
+candidate key: name
+
+
+6. Book Status (association class)
+- rating 		Rating
+- is read 		String 	(can have only 3 possible values: "read", "during reading", "not started")
