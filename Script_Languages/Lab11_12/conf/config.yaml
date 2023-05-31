@@ -1,0 +1,15 @@
+params:
+  author: "Andrzej Krzyśków"
+  book_id: 70844
+
+picture:
+  path: "output-files/first_picture.jpg"
+  left: 75
+  upper: 125
+  right: 120
+  lower: 225
+  resize: 2
+  watermark_text: "Downloaded from\nProject Gutenberg"
+
+docx:
+  path: "output-files/"

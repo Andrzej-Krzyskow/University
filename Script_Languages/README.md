@@ -14,3 +14,4 @@
  8. Lab8: Regular Expressions
  9. Lab9: CSV Files, CLI, Factory Boy, Click
  10. Lab10: Sending E-mail, Parsing HTML, Interacting with REST API
+ 11. Lab11_12: Scraping HTML Books from gutenberg.com, Creating DOCX Report
