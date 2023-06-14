@@ -1,0 +1,29 @@
+db:
+  #dataset: jeradrose/hearthstone-cards
+  #dataset: bourdier/all-tv-series-details-dataset
+  save_path: data/
+  tmp_save: data/tmp
+
+app:
+  title: Super advanced Kaggle Database downloader 3000
+  initial_x: 725
+  initial_y: 725
+  min_x: 650
+  min_y: 650
+  font_name: Sagou UI
+  font_size: 15
+  font_size_small: 8
+  background_color: lightgrey
+  labels_relx: 0.35
+  labels_rely: 0.05
+  header_relx: 0.5
+  spacing: 0.1
+  entry_width: 25
+  dropdown_width: 34
+  button_width: 16
+  search_height: 20
+  search_width: 80
+  progress_window_min_x: 400
+  progress_window_min_y: 300
+  bar_length: 200
+  image_tmp_path: data/tmp/tmp.png
